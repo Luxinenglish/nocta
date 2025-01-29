@@ -18,11 +18,16 @@ body {
     background-color: black;
     color: white;
     font-family: 'Marianne', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .nocta {
     text-align: center;
+    padding: 1rem;
 }
 .nocta2 {
     text-align: center;
     color: #777777;
+    padding: 1rem;
 }
