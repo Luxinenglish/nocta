@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Marianne';
+    src: url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff2') format('woff2'),
+    url('https://apolsn.pixelserver.fr/font/Marianne/fontes-web/Marianne-Regular.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Marianne', sans-serif;
+}
+.nocta {
+    text-align: center;
+}
+.nocta2 {
+    text-align: center;
+    color: #777777;
+}
