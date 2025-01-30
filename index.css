@@ -39,3 +39,16 @@ body {
 .né {
     text-align: center;
 }
+.ytb {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
+.discord {
+    width: 100%;
+    max-width: 560px;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
