@@ -47,8 +47,8 @@ body {
 }
 
 .discord {
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 80%;
     height: auto;
     aspect-ratio: 16 / 9;
 }
